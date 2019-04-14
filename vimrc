@@ -36,7 +36,7 @@ Plugin 'vim-airline/vim-airline-themes'
 
 " The enhanced C++ syntax highlighting.
 Plugin 'octol/vim-cpp-enhanced-highlight'
-
+Plugin 'flazz/vim-colorschemes'
 " The auto-complete module.
 "Plugin 'Valloric/YouCompleteMe'
 
@@ -58,7 +58,8 @@ filetype plugin indent on    " required
 
 " ---------- Monokai color scheme ----------
 syntax on
-colorscheme Monota
+"colorscheme Monota
+colorscheme molokai
 
 " ---------- General Settings ----------
 set backspace=indent,eol,start
