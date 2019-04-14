@@ -1,0 +1,10 @@
+https://tmuxcheatsheet.com/
+Ctrl+B - command mode
+:split-window -h - split window mode
+
+vim shortcuts
+1. y - copy, p-paste
+2. dd - delete a line, x - cut the character
+3. u - undo, Ctrl + R - redo
+4. v - select, V - select whole line
+
