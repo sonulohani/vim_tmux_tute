@@ -7,4 +7,7 @@ vim shortcuts
 2. dd - delete a line, x - cut the character
 3. u - undo, Ctrl + R - redo
 4. v - select, V - select whole line
+5. Ctrl-ww - NERDTree switch shortcut
+
+
 
