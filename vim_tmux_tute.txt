@@ -9,5 +9,7 @@ vim shortcuts
 4. v - select, V - select whole line
 5. Ctrl-ww - NERDTree switch shortcut
 
+https://twinnation.org/articles/3/how-to-install-youcompleteme-for-vim-using-pathogen-on-ubuntu
+
 
 
